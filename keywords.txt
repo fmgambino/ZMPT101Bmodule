@@ -1,0 +1,4 @@
+ZMPT101B    KEYWORD1
+begin       KEYWORD2
+readVoltage KEYWORD2
+readFrequency KEYWORD2

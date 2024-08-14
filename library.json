@@ -1,0 +1,28 @@
+{
+    "name": "ZMPT101B",
+    "version": "1.0.0",
+    "description": "Library for measuring AC voltage and frequency using the ZMPT101B module.",
+    "authors": [
+      {
+        "name": "Ing. Fernando Gambino",
+        "email": "electronicagambnino@gmail.com",
+        "url": "https://electronicagambino.com"
+      }
+    ],
+   "keywords": "ac, voltage, frequency, zmpt101b",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "espressif32",
+    "includeDir": "src",
+    "examples": [
+    "examples/BasicUsage"
+  ],
+    "repository": 
+      {
+    "type": "git",
+    "url": "https://github.com/YourUsername/YourRepository.git"
+      },
+      "description_es": "Biblioteca para medir la tensión AC y la frecuencia utilizando el módulo ZMPT101B.",
+      "description_en": "Library for measuring AC voltage and frequency using the ZMPT101B module."
+}
+  
